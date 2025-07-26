@@ -37,6 +37,10 @@ bower_components
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release
 
+# Whatsapp-web.js session and cache files
+.wwebjs_auth/
+.wwebjs_cache/
+
 # Dependency directories
 node_modules/
 jspm_packages/
